@@ -1,3 +1,4 @@
+// script.js
 document.addEventListener('DOMContentLoaded', () => {
     const sliderImages = document.querySelectorAll('.slider-image');
     let currentIndex = 0;
